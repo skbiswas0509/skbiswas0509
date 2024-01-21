@@ -3,10 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Sukumar+Biswas!;" />
 </h1>
-
-<h3 align="center">A novice developer from Bangladesh</h3>
-
-<br/>
+<h2 align="center">A novice developer from Bangladesh</h3>
 
 <div align="center">
  
