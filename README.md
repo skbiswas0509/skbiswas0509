@@ -18,7 +18,6 @@
 
  </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools Used ⚒️</h2>
 <br/>
@@ -28,7 +27,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,c,java,c++,flask,django" /><br>
 </div>
 
- 
+<hr/>
+  
 <div align="center"> 
   <a href="sukumarbsws98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
