@@ -17,15 +17,6 @@
 💬 Ask me about **Python, Django... or anything**
 
  </div>
- 
-<div align="center"> 
-  <a href="sukumarbsws98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sukumar-biswas-919888244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 
  <hr/>
  
@@ -37,4 +28,12 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,c,java,c++,flask,django" /><br>
 </div>
 
-<br/>
+ 
+<div align="center"> 
+  <a href="sukumarbsws98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sukumar-biswas-919888244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
