@@ -1,36 +1,52 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=skbiswas0509.skbiswas0509" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Sukumar+Biswas!;" />
-</h1>
-<h2 align="center">A novice developer from Bangladesh</h3>
+<h1 align="center">Sukumar Biswas</h1>
+<h3 align="center">Cybersecurity • AI • Systems</h3>
 
-<div align="center">
- 
- 🔭 I’m currently learning to be a better programmer**
- 
- 🌱 I’m currently learning **Python, Django**
+---
 
-💬 Ask me about **Python, Django... or anything**
+<p align="center">
+Focused on understanding systems, identifying weaknesses, and building secure solutions.
+</p>
 
- </div>
+---
 
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools Used ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,python,vscode,github,pycharm" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,c,java,c++,flask,django" /><br>
-</div>
+### Core Skills
 
-<hr/>
-  
-<div align="center"> 
-  <a href="sukumarbsws98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sukumar-biswas-919888244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+**Security & Systems**  
+Linux • Networking • Threat Analysis • Log Analysis • Security Fundamentals  
+
+**Programming**  
+Python • C • C++ • Java • JavaScript  
+
+**Web**  
+Django • Flask • React • HTML • CSS • Bootstrap  
+
+**AI / ML**  
+Machine Learning • Data Analysis • Model Fundamentals  
+
+**Tools**  
+Git • GitHub • Linux CLI • VS Code • PyCharm  
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,django,flask,react,linux,git,github,vscode,pycharm" />
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="mailto:skbiswas.work@gmail.com">Email</a> • 
+  <a href="www.linkedin.com/in/skbiswas59">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Stay curious. Build deliberately.</i>
+</p>
